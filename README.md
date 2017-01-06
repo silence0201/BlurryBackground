@@ -4,9 +4,13 @@
 ##使用说明
 
 ###安装
-#####手工导入
+####手工导入
 将项目目录下`BlurryBackground`目录导入项目中
 `BlurryView`:实现模糊效果的View
+
+####Pod安装
+
+	pod 'BlurryBackground', '~> 1.0'
 
 ###使用
 1. 在`AppDelegate`中导入头文件
