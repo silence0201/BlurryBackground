@@ -124,7 +124,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E8229C571E1FC48A00E53A08 /* Build configuration list for PBXProject "BlurryBackgroundDEmo" */;
+			buildConfigurationList = E8229C571E1FC48A00E53A08 /* Build configuration list for PBXProject "BlurryBackgroundDemo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E8229C571E1FC48A00E53A08 /* Build configuration list for PBXProject "BlurryBackgroundDEmo" */ = {
+		E8229C571E1FC48A00E53A08 /* Build configuration list for PBXProject "BlurryBackgroundDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E8229C711E1FC48A00E53A08 /* Debug */,
@@ -321,6 +321,7 @@
 				E8229C751E1FC48A00E53A08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
