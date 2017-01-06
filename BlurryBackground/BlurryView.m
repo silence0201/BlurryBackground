@@ -18,7 +18,7 @@
 - (instancetype)initWithFrame:(CGRect)frame{
     if(self = [super initWithFrame:frame]){
         UIImage *image = [UIImage imageWithData:UIImageJPEGRepresentation([self screenCapture], 1.0)] ;
-        UIImage *blurImage = [image boxblurImageWithBlur:0.1] ;
+        UIImage *blurImage = [image boxblurImageWithBlur:0.6] ;
         UIImageView *backgroundView = [[UIImageView alloc]initWithFrame:frame] ;
         backgroundView.image = blurImage ;
         [self addSubview:backgroundView] ;
